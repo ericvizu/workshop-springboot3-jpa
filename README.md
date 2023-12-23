@@ -7,13 +7,13 @@ Este projeto foi construído durante o curso de Java pelo Prof. Dr. Nelio Alves 
 O objetivo era aprender funcionalidades básicas necessárias para um desenvolvedor, como modelo de domínio, estrutuação em camadas lógicas (resource, service e repository), além de povoar o banco de dados e uma implementação básica de CRUD, finalizando com um tratamento de exceções.
 
 ## Modelo de domínio
-![Modelo de domínio](https://github.com/ericvizu/assets/blob/main/workshop-springboot3-jpa/assets/modelo_dominio.png)
+![Modelo de domínio](https://raw.githubusercontent.com/ericvizu/assets/main/workshop-springboot3-jpa/assets/modelo_dominio.png?token=GHSAT0AAAAAACLFMY36UBW4Z5JUPBHLSBKUZMHFUHQ)
 
 ## Instancia de domínio
-![Instância de domínio](https://github.com/ericvizu/assets/blob/main/workshop-springboot3-jpa/assets/instancia_dominio.png)
+![Instância de domínio](https://raw.githubusercontent.com/ericvizu/assets/main/workshop-springboot3-jpa/assets/instancia_dominio.png?token=GHSAT0AAAAAACLFMY36C7FIMVGHMWADC3TMZMHFUPQ)
 
 ## Camadas lógicas
-![Camadas lógicas](https://github.com/ericvizu/assets/blob/main/workshop-springboot3-jpa/assets/camadas_logicas.png)
+![Camadas lógicas](https://raw.githubusercontent.com/ericvizu/assets/main/workshop-springboot3-jpa/assets/camadas_logicas.png?token=GHSAT0AAAAAACLFMY36CKRXKUPH6BCYZTMUZMHFUXQ)
 
 # Tecnologias utilizadas
 - Spring Boot
